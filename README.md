@@ -21,3 +21,5 @@ After changing the reading and the math scores of Thomas High School, they jumpe
 #### Affects as follows in relations 
 As the purpose of this assignment was to look for evidence on if the data changes due to switching the grades from grade 9 to 10 and follows we can see that the data does change.
 The data not only effects one school which is Thomas High but also the all the list of Districts.While Thomas High School becomes climbs on list due to performances we look at the differences before and after adding addiontal data  In terms of Average Math Score they have 83.34. In terms of Average Reading Score they have 83.89. In Terms of % Passing Math they have 93.18 vs 66.91. In Terms of % Passing. Reading they have 97 .01 vs 69.66. In Terms of % Overall Passing they have 90. 63 vs 65.07
+
+<img width="476" alt="high and low" src="https://user-images.githubusercontent.com/79885849/112766864-b3176300-8fe1-11eb-9d8c-102839b5baee.PNG">
