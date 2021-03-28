@@ -10,6 +10,9 @@ After adding additional information we can see that there are a few changes in t
 ### School Summary 
 After adding additional informational we can see that occording to the lists of schools and districts the value that we have i,e average for manth and reading and % for math and reading value changes accordingly. We also see that the less the number of student there is corelations on the overall passing rates, this is described in the table below 
 
+<img width="482" alt="school summary" src="https://user-images.githubusercontent.com/79885849/112766737-16ed5c00-8fe1-11eb-92e5-143b92eb279b.PNG">
+
+
 ### 9th Grade Summary 
 After changing the reading and the math scores of Thomas High School, they jumped to the second on the list of all the high performaing schools with the second highest overall passing % on the Charter schools
 
