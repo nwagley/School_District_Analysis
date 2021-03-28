@@ -5,6 +5,8 @@ The Purpose of this assignment is to see if there is any evidence of acadamic di
 ### District Summary 
 After adding additional information we can see that there are a few changes in the district summary. The total number of students is 31,10 and the school has a total budget of approx 24 million 6 hundread thousand. When looking at the 15 schools we can see that the average school marks are on the rise with students that pass math on 74.5%, reading on 85.7% and overall passing rate of 64.9%. 
 
+<img width="948" alt="updated_district_summary_dataframe" src="https://user-images.githubusercontent.com/79885849/112766721-fcb37e00-8fe0-11eb-8bd0-2c769379662c.png">
+
 ### School Summary 
 After adding additional informational we can see that occording to the lists of schools and districts the value that we have i,e average for manth and reading and % for math and reading value changes accordingly. We also see that the less the number of student there is corelations on the overall passing rates, this is described in the table below 
 
